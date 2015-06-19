@@ -1,0 +1,134 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; }
+
+@font-face {
+  font-family: 'Proxima Nova Regular';
+  src: url(../fonts/Proxima\ Regular.otf) format("opentype");
+}
+@font-face {
+  font-family: 'Proxima Nova Semibold';
+  src: url(../fonts/Proxima\ Semibold.otf) format("opentype");
+}
+
+h1 {
+  font-family: 'Proxima Nova Semibold';
+}
+
+h3 {
+
+  font-family: 'Proxima Nova Regular';
+}
+
+.social_icons{
+
+	width: 60px;
+	height: 60px;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  font-size: 18px; }
+
+.splash {
+  width:100%;
+  height:100%;
+  margin:0, auto;
+  padding: 0;
+}
+.wrapper{
+	width:100%;
+	height:100%;
+	margin:0, auto;
+	position: relative;
+	padding: 0;
+
+}
+
+ .splash .background {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    background-image: url("../img/background_test.png");
+    /*background-color: #181b24;*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; }
+   
+   .splash .background .background-overlay {
+   	 height: 100%;
+     width: 100%;
+     margin: 0 auto;
+     padding: 0;
+     background-color: transparent;
+     
+
+
+   }
+
+.splash .container {
+   		color: #ffffff;
+   		position: relative;
+   		margin: 0 auto;
+    	padding: 0;
+      top:50%;
+      -webkit-transform: translateY(-55%);
+      -ms-transform: translateY(-55%);
+      transform: translateY(-55%);
+
+	}
+
+.splash .container h1 {
+  font-size: 60px;
+}
+
+.splash .container h3 {
+  font-size: 25px;
+  line-height: 1.6;
+}
+
+.splash .container .title-border {
+
+  width: 160px;
+  height: 2px;
+  background-color: #ffffff;
+  margin: 10px auto 20px;
+}
+
+.splash .splash-nav {
+  margin-top: 20px;
+}
+.splash .splash-nav li {
+  list-style: none;
+  display: inline-block;
+  border-right: 2px solid white;
+  line-height: 1px;
+  padding: 0 15px 0 15px;
+
+
+}
+.splash .splash-nav li:last-child {
+
+  border-right: none;
+}
+
+.splash .arrow {
+
+  position:absolute;
+  left:50%;
+  bottom: 0%;
+  width:60px;
+  height: 60px;
+  margin-left: -30px;
+  margin-bottom: 50px;
+  display: block;
+}
+
+.splash .arrow img {
+
+  width: 55px;
+}

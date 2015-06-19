@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landing" sketch:type="MSArtboardGroup" transform="translate(-830.000000, -557.000000)">
+            <g id="linkedin" sketch:type="MSLayerGroup" transform="translate(830.000000, 557.000000)">
+                <rect id="Rectangle" sketch:type="MSShapeGroup" x="0" y="0" width="90" height="90"></rect>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" cx="45" cy="45" r="45"></circle>
+                <path d="M25.5773219,37.6631858 L33.5508424,37.6631858 L33.5508424,65.4519261 L25.5773219,65.4519261 L25.5773219,37.6631858 Z M29.3608355,34.1873014 L29.3031087,34.1873014 C26.4167664,34.1873014 24.5454545,32.0630042 24.5454545,29.3729263 C24.5454545,26.627842 26.472088,24.5454545 29.4161571,24.5454545 C32.3578209,24.5454545 34.1665954,26.6226033 34.2243222,29.3650683 C34.2243222,32.0551462 32.3578209,34.1873014 29.3608355,34.1873014 L29.3608355,34.1873014 Z M65.4545455,65.4545455 L56.4130783,65.4545455 L56.4130783,51.0716656 C56.4130783,47.307652 54.9987706,44.7406838 51.8887369,44.7406838 C49.5099098,44.7406838 48.1870029,46.4720777 47.5712499,48.1458457 C47.3403425,48.7430587 47.3764218,49.578633 47.3764218,50.4168267 L47.3764218,65.4545455 L38.4191397,65.4545455 C38.4191397,65.4545455 38.5345933,39.9786959 38.4191397,37.6631858 L47.3764218,37.6631858 L47.3764218,42.0244124 C47.9055845,40.1175217 50.7678739,37.3960116 55.3355106,37.3960116 C61.0023625,37.3960116 65.4545455,41.3957671 65.4545455,50.0003492 L65.4545455,65.4545455 L65.4545455,65.4545455 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
